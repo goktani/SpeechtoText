@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "thermal-cathode-425913-n3",
+  "private_key_id": "ca239a4004da9345f646325b6eb9550c535f2fe0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDcaJHnHwxsoOkG\n0Bs6yO/anV9hqyiYRVw9qyIRQYx7xqC3dEO2hY/q9I7+0I9YQd4+zaZQju6KO2Ii\nRX72Uu6Yi0Lpm2kFtHnrMDPIShINw0PXuo8LGUqXWgk3S7R8sNSwJTYOudVF22gC\nrL9fJRlmfld3iQpj9KF3zB+htRV7QXgQgaS/pyNLlIhOd3p5zAh6Wu2792xS4xYS\nAlV6SRT5UWkl7XmJPCZbj2GZMAauW/2nAM4WPx+bb5e7MAET0E0S8aBZeS8b82tW\nrl6f2y1OwCVh4J8lpZTrb0XgaaZLzVK6IE2swp0CzSuE0Fg4zhxaWvsWXHz3qTyW\nbzraetRPAgMBAAECggEAYvKpCZ61N7E3XAEiME5T64t57gFmXJHK2r6QsTmBpXGi\n5ikSWwbz+LFo3rlnmOIdMYmmUAUSzsjhAey8Fj5d8eqXFAPabp66mxyNKq4iE76l\nHtyYag2lIHRhrcrVUKMcIKXb8ll4Bv/8XjMKSN8BW7N9deL2YLBKqtrfGnwOlEGW\n5/MECXVp3HujRdAd8qVK6Q4+oPEnPjgyY2kDK0qnDpwoTvnnOn/rbnjBEtlksXwG\n7R/d+fgwUMgS8D1OleQGzIXYgUatS09MVHDvCq0n/O5QX13soe+WGtV/P9AUKxfk\nE3uIHlgWOIvtlGcjF5x29Wjo62X1h5iqufWZxR6SdQKBgQD5ncNIEu4+qaxKKbac\ntbwHPEyTDqcDpomAW2HGR9V0mw+a5X+G1RCQ08Mfz21IXa4GqBWcSwL+srdhB/ZV\nnqtSWOYIueS6LheocfMByFnWT6TpG/ozNzM8Ygm4BUb8sjIbWtrDEX9tpwXDJLr1\n7Qe+zD+oSKEKM9VVIWq/DLUYrQKBgQDiC5V0LTiG7BsjQe3f+UJSrFQPxrFcCBhW\nqgUm/oHtlGOi5ssFrE64RmTwgpO/kJiXX5226er+Ewr0frHJMAawbFAEhE3+lddp\n8/GJNlQMj+CZrZEmkB7J5Cg9r38WAXrSD8/kiJ05PwU7gDKN9MAHygzFtllZIGom\n+oC+B8wUawKBgQDIvunoMuFLn+Uhl7529WkMYKAsvGHw+6QliFhvwCGYr4OzTNJs\nuzmhX8zS7lyzEDP+wnruwRzdfRkhfefMH9kkVr5ZUjbyzFLWcx2910T4qAC2QHvN\naJ1Z+HZcelIGs8C8YysAKjhTFTn7ILUDRuctuNGRIyfwLpNo7YENuMiD2QKBgQDh\nROoMfYR38ZSZ7npBWwbdnR+pGTpnnSmkNIwt8DVLrzYcgiSR4sYQnxa5GWhk4JUx\nRfjG8RdfXVrtjdVfypzf9RFJbxDLRkkHLjTnqVzZqAkNHgwpgjcsvFPeJadhJthf\nv6JO/laxVjzAr2GyVteI67MO1kr0p3kin0LuHpcjQQKBgC8Z2a2I38oQUZIiCZVB\ncIUgmP70//HGuG6d4tt6eB0PuOohRJzOhpJGfN4pZ2pgKkvA4kg9ng7FU4bq5gPO\nrKII0p77P1QxLqOz7CGNrhfSwKdz4uvgMljm8wLEzwL66IWihIBb9i2UUPrxK/5b\neLB7x260SnVBa8FhvHTAxVro\n-----END PRIVATE KEY-----\n",
+  "client_email": "speech-demo@thermal-cathode-425913-n3.iam.gserviceaccount.com",
+  "client_id": "114510887178225478932",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speech-demo%40thermal-cathode-425913-n3.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

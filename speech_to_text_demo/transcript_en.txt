@@ -1,0 +1,13 @@
+Transcript: hello
+Transcript: hello everyone
+Transcript: hello
+Transcript: hello everyone
+Transcript: hello everyone
+Transcript: hello everyone
+Transcript: hello everyone i
+Transcript: hello everyone i am
+Transcript: hello everyone i am
+Transcript: hello everyone i am dra
+Transcript:  ex
+Transcript:  exit
+Keyword recognized: exit
